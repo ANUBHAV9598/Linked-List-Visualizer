@@ -1,4 +1,4 @@
-#Linked List Visualization
+Linked List Visualization
 
 This project is a dynamic visualization of a Linked List data structure. It provides an interactive interface to perform key linked list operations such as adding, removing, and setting values to nodes. The project is built using HTML, CSS, and JavaScript, and aims to help users understand how a Linked List works in an intuitive and graphical way.
 
@@ -14,7 +14,7 @@ This project is a dynamic visualization of a Linked List data structure. It prov
    
 5) Multiple Input Capability: Enter multiple values at once, separated by commas, to create or modify nodes quickly.
 
-Technology Stack
+𝚃̲𝚎̲𝚌̲𝚑̲𝚗̲𝚘̲𝚕̲𝚘̲𝚐̲𝚢̲ ̲𝚂̲𝚝̲𝚊̲𝚌̲𝚔̲
 
 HTML: Provides the structure and layout for the linked list visualization.
 
@@ -22,7 +22,7 @@ CSS: Responsible for styling the linked list and making the interface visually a
 
 JavaScript: Implements the core functionality of the linked list operations and interacts with the user inputs.
 
-How to Use
+𝙷̲𝚘̲𝚠̲ ̲𝚝̲𝚘̲ ̲𝚄̲𝚜̲𝚎̲
 
 Adding a Node:
 
@@ -46,7 +46,7 @@ Visual Feedback:
 
 • As nodes are added, removed, or updated, the changes will be reflected in real-time on the visualization panel.
 
-How It Works
+𝙷̲𝚘̲𝚠̲ ̲𝙸̲𝚝̲ ̲𝚆̲𝚘̲𝚛̲𝚔̲𝚜̲
 
 This project models a singly linked list where each node contains a value and a reference to the next node. The operations follow standard linked list procedures, allowing users to interact with the list through an easy-to-use interface.
 
@@ -56,7 +56,7 @@ This project models a singly linked list where each node contains a value and a 
 
 • Set Value: Modifies the data within a specified node.
 
-Installation and Setup
+ ̲𝙸̲𝚗̲𝚜̲𝚝̲𝚊̲𝚕̲𝚕̲𝚊̲𝚝̲𝚒̲𝚘̲𝚗̲ ̲𝚊̲𝚗̲𝚍̲ ̲𝚂̲𝚎̲𝚝̲𝚞̲𝚙̲
 
 1. Clone this repository to your local machine:
 ---->> git clone https://github.com/ANUBHAV9598/Linked-List-Visualizer.git
