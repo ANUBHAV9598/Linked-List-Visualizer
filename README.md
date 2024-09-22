@@ -1,8 +1,8 @@
-Linked List Visualization
+#Linked List Visualization
 
 This project is a dynamic visualization of a Linked List data structure. It provides an interactive interface to perform key linked list operations such as adding, removing, and setting values to nodes. The project is built using HTML, CSS, and JavaScript, and aims to help users understand how a Linked List works in an intuitive and graphical way.
 
-Features
+𝙵̲𝚎̲𝚊̲𝚝̲𝚞̲𝚛̲𝚎̲𝚜̲
 
 1) Add Node: Easily add a node to the linked list, either at the end or at a specific position.
    
