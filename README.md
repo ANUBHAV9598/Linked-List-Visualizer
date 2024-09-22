@@ -4,16 +4,22 @@ This project is a dynamic visualization of a Linked List data structure. It prov
 
 Features
 
-Add Node: Easily add a node to the linked list, either at the end or at a specific position.
-Remove Node: Remove a node from the linked list by specifying its position.
-Set Node Value: Update the value of any node in the linked list.
-Real-time Visualization: Watch the linked list grow, shrink, and modify in real-time as you perform operations.
-Multiple Input Capability: Enter multiple values at once, separated by commas, to create or modify nodes quickly.
+1) Add Node: Easily add a node to the linked list, either at the end or at a specific position.
+   
+2) Remove Node: Remove a node from the linked list by specifying its position.
+   
+3) Set Node Value: Update the value of any node in the linked list.
+   
+4) Real-time Visualization: Watch the linked list grow, shrink, and modify in real-time as you perform operations.
+   
+5) Multiple Input Capability: Enter multiple values at once, separated by commas, to create or modify nodes quickly.
 
 Technology Stack
 
 HTML: Provides the structure and layout for the linked list visualization.
+
 CSS: Responsible for styling the linked list and making the interface visually appealing.
+
 JavaScript: Implements the core functionality of the linked list operations and interacts with the user inputs.
 
 How to Use
@@ -21,6 +27,7 @@ How to Use
 Adding a Node:
 
 • Input a value (or multiple comma-separated values) in the "Add Node" field.
+
 • Click the "Add" button to insert nodes into the list.
 
 Removing a Node:
